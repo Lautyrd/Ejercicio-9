@@ -1,0 +1,8 @@
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 9\bin\Debug\Ejercicio 9.exe.config
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 9\bin\Debug\Ejercicio 9.exe
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 9\bin\Debug\Ejercicio 9.pdb
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 9\obj\Debug\Ejercicio 9.csprojResolveAssemblyReference.cache
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 9\obj\Debug\Ejercicio_9.MainForm.resources
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 9\obj\Debug\Ejercicio 9.csproj.GenerateResource.Cache
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 9\obj\Debug\Ejercicio 9.exe
+C:\Users\IPPESSI\Documents\SharpDevelop Projects\Ejercicio 9\obj\Debug\Ejercicio 9.pdb
